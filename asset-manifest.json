@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.627b6ffc.css",
+    "main.js": "/static/js/main.244e7bbc.js",
+    "static/media/Inter-SemiBold.otf": "/static/media/Inter-SemiBold.2766745f0afa91ab9215.otf",
+    "static/media/Inter-Bold.otf": "/static/media/Inter-Bold.a64375d2f3e6f01b69cc.otf",
+    "static/media/Inter-ExtraBold.otf": "/static/media/Inter-ExtraBold.d3eecd15e90e8b89ba0c.otf",
+    "static/media/Inter-Medium.otf": "/static/media/Inter-Medium.dd18910806bdb0134f9d.otf",
+    "static/media/Inter-Light.otf": "/static/media/Inter-Light.ed5eac5dcf325a2c9fc2.otf",
+    "static/media/Inter-Regular.otf": "/static/media/Inter-Regular.aef998c8f5345ac261c2.otf",
+    "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Light.ttf": "/static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.2ea01e9a7b3b5fbccfdb.woff",
+    "static/media/Inter-SemiBold.woff": "/static/media/Inter-SemiBold.5896f82320d446599e4d.woff",
+    "static/media/Inter-ExtraBold.woff": "/static/media/Inter-ExtraBold.055a520e99d12d815207.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.d71ae1c83f159e058d6e.woff",
+    "static/media/Inter-Light.woff": "/static/media/Inter-Light.27df2a074aabc92e836f.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.e4e04da60d39f1269bd2.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/Inter-SemiBold.woff2": "/static/media/Inter-SemiBold.ab564c2dbbe039da8cb5.woff2",
+    "static/media/Inter-ExtraBold.woff2": "/static/media/Inter-ExtraBold.7512b86dc7ea6a584a49.woff2",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.eccbcfa9bc0203198ac6.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.8a50feca5194fae5cc45.woff2",
+    "static/media/Inter-Light.woff2": "/static/media/Inter-Light.78771d7398abb1ce4815.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.6fcad65b7a8f7ffabb8e.woff2",
+    "static/media/bj.png": "/static/media/bj.9fb99cc3de0570e29eab.png",
+    "index.html": "/index.html",
+    "main.627b6ffc.css.map": "/static/css/main.627b6ffc.css.map",
+    "main.244e7bbc.js.map": "/static/js/main.244e7bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627b6ffc.css",
+    "static/js/main.244e7bbc.js"
+  ]
+}
